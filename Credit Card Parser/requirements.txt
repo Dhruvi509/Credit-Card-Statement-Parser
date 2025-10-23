@@ -1,0 +1,7 @@
+# Core dependencies
+pandas>=1.5.0
+pypdf>=3.0.0
+spacy>=3.6.0
+
+# Note: After installing the above, download the spaCy model with:
+# python -m spacy download en_core_web_sm
